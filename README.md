@@ -1,0 +1,2 @@
+# CHDK-CanonIxus285HS-ELPH360
+CHDK for Canon IXUS 285 HS (ELPH 360)
